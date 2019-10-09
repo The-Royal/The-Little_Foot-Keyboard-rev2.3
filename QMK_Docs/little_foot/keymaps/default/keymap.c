@@ -132,16 +132,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   )
 };
 
-// RGB Modes:
-// - 1 = Static
-// - 2-5 = Breathing
-// - 6-8 = Rainbow
-// - 9-14 = Swirl
-// - 15-20 = Snake
-// - 21-24 = Nightrider
-// - 25 = Christmas
-// - 26-30 = Static Gradient
-
 layer_state_t layer_state_set_user(layer_state_t state) {
     switch (get_highest_layer(state)) {
     case _FN:
