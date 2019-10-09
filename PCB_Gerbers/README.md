@@ -36,11 +36,11 @@
 
 .
 
-+ **x2** - 2u Stabilizers (GMK Brand Preffered)
++ **x2** - 2u Stabilizers (GMK Brand *screw-in* Preffered)
 
 OR*
 
-+ **x1** - 7u Stabilizer (GMK Brand Preffered)
++ **x1** - 7u Stabilizer (GMK Brand *screw-in* Preffered)
 
    - [Novelkeys Stabilizers](https://novelkeys.xyz/collections/miscellaneous/products/cherry-stabilizers?variant=3747938893864)
    
