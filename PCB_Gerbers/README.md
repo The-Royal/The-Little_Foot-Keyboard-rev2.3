@@ -26,7 +26,15 @@
 
 ## Optional Parts:
 
-+ x10-x20 WS2812b RGB LEDs (Strip) 
++ **x10-x20** WS2812b RGB LEDs (Strip) 
 
    - [Kingly-Keys RGB Strips](https://kingly-keys.xyz/collections/parts-and-pieces/products/ws2812b-leds-strip)
+   
++ **x2** - 2u Stabilizers (GMK Brand Preffered)
+
+OR*
+
++ **x1** - 7u Stabilizer (GMK Brand Preffered)
+
+   - [Novelkeys Stabilizers](https://novelkeys.xyz/collections/miscellaneous/products/cherry-stabilizers?variant=3747938893864)
    
