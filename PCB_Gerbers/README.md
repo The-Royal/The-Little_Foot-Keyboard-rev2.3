@@ -18,3 +18,15 @@
 + **x1** - SMD Flat Tactile Switch (Reset)
 
    - LCSC Reset Switch: [C92584](https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1187SQ-A4SW-06_C92584.html)
+
+
++ **x1** - Elite-C (USB_C) or Pro-Micro Variant (Micro_USB)
+
++ **x2** - 12P-2.54mm Header-Pin Connectors (Most controllers already come with these)
+
+## Optional Parts:
+
++ x10-x20 WS2812b RGB LEDs (Strip) 
+
+   - [Kingly-Keys LED Strips](https://kingly-keys.xyz/collections/parts-and-pieces/products/ws2812b-leds-strip)
+   
