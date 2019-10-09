@@ -50,7 +50,8 @@ enum combos {
   combo_BACK,
   combo_TAB,
   combo_PINKYCTRL,
-  combo_DELETE
+  combo_DELETE,
+  combo_ALT
 };
 
 const uint16_t PROGMEM esc_combo[] = {KC_1, KC_2, COMBO_END};
@@ -58,13 +59,15 @@ const uint16_t PROGMEM bspc_combo[] = {KC_9, KC_0, COMBO_END};
 const uint16_t PROGMEM tab_combo[] = {KC_Q, KC_W, COMBO_END};
 const uint16_t PROGMEM pinkyctrl_combo[] = {KC_A, KC_S, COMBO_END};
 const uint16_t PROGMEM del_combo[] = {KC_1, KC_0, COMBO_END};
+const uint16_t PROGMEM alt_combo[] = {KC_COMM, KC_DOT, COMBO_END};
 
 combo_t key_combos[COMBO_COUNT] = {
   [combo_ESC] = COMBO(esc_combo, KC_ESC),
    [combo_BACK] = COMBO(bspc_combo, KC_BSPC),
     [combo_TAB] = COMBO(tab_combo, KC_TAB),
      [combo_PINKYCTRL] = COMBO(pinkyctrl_combo, KC_LCTRL),
-      [combo_DELETE] = COMBO(del_combo, KC_DEL)
+      [combo_DELETE] = COMBO(del_combo, KC_DEL),
+       [combo_ALT] = COMBO(alt_combo, KC_LALT)
 };
 
 enum custom_keycodes {
@@ -124,7 +127,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   ),
 
   [_LN] = LAYOUT_big_space_base(
-    xxx,          xxx,       xxx,       xxx,       xxx,     xxx,     xxx,     xxx,      xxx,     PASTA, 
+    DBLBK,          xxx,       xxx,       xxx,       xxx,     xxx,     xxx,     xxx,      xxx,     PASTA, 
 	  xxx,          xxx,       xxx,       xxx,       xxx,     xxx,     xxx,     xxx,      xxx,     xxx, 
 		LCTL(KC_A),   xxx,       xxx,       xxx,       xxx,     xxx,     xxx,     xxx,      xxx,     xxx,
 		LCTL(KC_Z),   xxx,   LCTL(KC_C), LCTL(KC_V),   xxx,     xxx,     xxx,     xxx,      xxx,   KC_PIPE,
