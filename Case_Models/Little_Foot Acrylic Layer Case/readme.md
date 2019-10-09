@@ -31,4 +31,6 @@ As a tray-mount case, the Little_Foot Acrylic Case follows the same structure as
 
 -   x6-x7 - M2x8mm Spacers
 - x12-x14 - M2x5mm Screws
+
+![Little_Foot-Acrylic Case](https://i.imgur.com/KoyFVTx.png)
 ===
