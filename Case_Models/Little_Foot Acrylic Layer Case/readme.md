@@ -14,7 +14,7 @@ A Layer Case designed for the Little_Foot Keyboard!
 - x6 Little_Foot-Acrylic_Case-MIDDLE_LAYERS
 - x1 Little_Foot-Acrylic_Case-BOTTOM_LAYER
 
-Total height of layer case = 24mm
+-Total height of layer case = 24mm
 ===
 
 ## Parts:
