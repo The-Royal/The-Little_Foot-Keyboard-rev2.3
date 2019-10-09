@@ -30,6 +30,8 @@
 
    - [Kingly-Keys RGB Strips](https://kingly-keys.xyz/collections/parts-and-pieces/products/ws2812b-leds-strip)
    
+   
+   
 + **x2** - 2u Stabilizers (GMK Brand Preffered)
 
 OR*
