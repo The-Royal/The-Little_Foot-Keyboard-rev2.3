@@ -34,3 +34,9 @@ As a tray-mount case, the Little_Foot Acrylic Case follows the same structure as
 
 ![Little_Foot-Acrylic Case](https://i.imgur.com/KoyFVTx.png)
 ===
+
+**
+
+**Please note:** The Little _Foot layer case is officially **un-tested** IRL but is dimensionally identical to 3D Printed model that i have had Printed twice.  And was tested in CAD to align exactly the same to the PCB/Plate
+
+So by all instances...it should be the same.
