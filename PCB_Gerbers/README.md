@@ -8,8 +8,7 @@
 
 ## Required Parts for PCB & PCB Assembly:
 
-+ **x40-44** - 1N4148 Diodes
-  - Supports both SMD and THT Diodes
++ **x40-44** - 1N4148 Diodes (PCB Supports both/either SMD and THT Diodes)
   
    - LCSC SMD Diodes: [C2099](https://lcsc.com/product-detail/Switching-Diode_Changjiang-Electronics-Tech-CJ-1N4148W_C2099.html)
 
