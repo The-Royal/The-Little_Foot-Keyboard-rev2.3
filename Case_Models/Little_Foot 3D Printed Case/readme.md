@@ -1,6 +1,6 @@
 # Little_Foot - 3D-Printed Case
 
-![Little_Foot-Acrylic Case](https://i.imgur.com/IxX9vMW.jpg)
+![Little_Foot-3D-Printed_Case](https://i.imgur.com/IxX9vMW.jpg)
 
 ===
 
