@@ -7,7 +7,7 @@ A mighty small, 45% Ortholinear Keyboard
 
 ## Little_Foot Deluxe-Default Keymap
 
-![Keymap](https://i.imgur.com/jZi3Unj.png)
+![Keymap](https://i.imgur.com/qkLyTrK.png)
 ===
 
 Keyboard Maintainer: Garret G. - a.k.a. [The_Royal](https://www.reddit.com/user/The_Royal/) on Reddit, and [TheRoyalSweatshirt](https://github.com/TheRoyalSweatshirt) on GitHub
