@@ -28,5 +28,5 @@
 
 + x10-x20 WS2812b RGB LEDs (Strip) 
 
-   - [Kingly-Keys LED Strips](https://kingly-keys.xyz/collections/parts-and-pieces/products/ws2812b-leds-strip)
+   - [Kingly-Keys RGB Strips](https://kingly-keys.xyz/collections/parts-and-pieces/products/ws2812b-leds-strip)
    
