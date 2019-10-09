@@ -17,4 +17,5 @@
 + x1 SMD Flat Tactile Switch (Reset)
 
 -- LCSC Reset Switch: [C92584](https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1187SQ-A4SW-06_C92584.html)
+
 ===
