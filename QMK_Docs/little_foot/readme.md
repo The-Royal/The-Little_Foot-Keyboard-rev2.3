@@ -6,7 +6,7 @@
 A mighty small, 45% Ortholinear keyboard.
 
 Keyboard Maintainer: Garret G. - a.k.a. [The_Royal](https://www.reddit.com/user/The_Royal/) on Reddit, and [TheRoyalSweatshirt](https://github.com/TheRoyalSweatshirt) on GitHub
-Hardware Supported: Little_Foot Rev1.2 & Rev1.4, rev2.3 PCB; Pro-Micro, and Elite-C  
+Hardware Supported: Little_Foot rev1.2 & rev1.4, rev2.3 PCB; Pro-Micro, and Elite-C  
 Hardware Availability: Through GB or Direct Message 
 
 Make example for this keyboard (after setting up your build environment):
